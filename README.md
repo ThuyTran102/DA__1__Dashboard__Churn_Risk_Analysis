@@ -1,7 +1,16 @@
 # Churn_Risk_Analysis_Dashboard
-Credit Card Customer Churn Risk Analysis using Power BI
+Credit Card Customer Churn Risk Analysis using **Power BI**
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="60%" src="https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/blob/main/images/Churn_Image.png" alt="Outcome"></img>
+</p>
 
 ## Table of Contents:
+- [Pproject Objectives](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/edit/main/README.md#project-objectives-)
+- [Data Preparation](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/edit/main/README.md#data-preparation)
+- [Data Analysis (DAX)](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/edit/main/README.md#data-analysis-dax)
+- [Data Visualization (Dashboard)](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/edit/main/README.md#data-visualization-dashboard)
+- [Insights](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/edit/main/README.md#insights)
+- [Recommendations](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/edit/main/README.md#recommendations)
 
 
 ## Project Objectives:
@@ -31,11 +40,11 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 | Dashboard 1 |
 | ----------- |
-|![dashboard1](https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/Churn_Risk_Doashboard1.png)|
+|![dashboard1](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/blob/main/images/Churn_Risk_Doashboard1.png)|
 
 | Dashboard 2 |
 | ----------- |
-|![dashboard2](https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/Churn_Risk_Doashboard2.png)|
+|![dashboard2](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/blob/main/images/Churn_Risk_Doashboard2.png)|
 
 
 
