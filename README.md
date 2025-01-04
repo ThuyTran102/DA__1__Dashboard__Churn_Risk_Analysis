@@ -25,7 +25,7 @@ The purpose of this analysis is to:
   - **Customer Demographics**: Age, gender, marital status, education level, income category, and number of dependents.
   - **Customer Account Information**: Card category, total products held, months on book, credit limit, average utilization ratio, and total revolving balance.
   - **Behavioral Metrics**: Transaction patterns, months inactive in the last 12 months, contacts with the bank, and changes in transaction count or amount.
-  - Retention Risk Indicators**: Key trends such as inactivity periods, frequent bank contacts, and transactional behavior associated with higher churn rates.
+  - **Retention Risk Indicators**: Key trends such as inactivity periods, frequent bank contacts, and transactional behavior associated with higher churn rates.
 The analysis aims to uncover critical insights and propose targeted recommendations to retain customers and enhance the overall service experience.
 
 
