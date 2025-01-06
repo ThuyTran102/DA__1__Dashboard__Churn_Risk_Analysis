@@ -1,7 +1,7 @@
 # Churn_Risk_Analysis_Dashboard
 ### Credit Card Customer Churn Risk Analysis using **Power BI**
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="60%" src="https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/blob/main/images/Churn_Image.png" alt="Outcome"></img>
+<img width="40%" src="https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/blob/main/images/Churn_Image.png" alt="Outcome"></img>
 </p>
 
 ## Table of Contents:
@@ -54,8 +54,8 @@ The tabulation below shows the `BankChurners` table with its column names and th
 
 ## Data Preparation:
 Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modeling.
-Ensure all columns are formatted correctly (e.g., numeric data as decimals, dates as date types).
-Handle missing or incorrect data using Power Query (replace, remove, or impute values).
+- Ensure all columns are formatted correctly (e.g., numeric data as decimals, dates as date types).
+- Handle missing or incorrect data using Power Query (replace, remove, or impute values).
 
 ## Data Analysis (DAX):
 Measures used in all visualization are:
