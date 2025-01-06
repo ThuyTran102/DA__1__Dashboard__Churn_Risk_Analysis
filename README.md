@@ -75,7 +75,7 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 | Dashboard 1 |
 | ----------- |
-|![dashboard1](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/blob/main/images/Churn_Risk_Doashboard3.png)|
+|![dashboard1](https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/blob/main/images/Churn_Risk_Doashboard1.png)|
 
 | Dashboard 2 |
 | ----------- |
