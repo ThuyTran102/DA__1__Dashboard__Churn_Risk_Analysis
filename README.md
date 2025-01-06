@@ -16,7 +16,7 @@
 
 ## Project Objectives:
 The purpose of this analysis is to:
-  - Define proper Key Measures/ Key Performance Indicators (KPIs) to measure customer churn.
+  - Define proper Key Performance Indicators (KPIs) to measure customer churn.
   - Create a dashboard for the credit card manager that reflects all relevant KPIs and metrics in the dataset.
   - Based on findings, recommend actionable strategies to reduce churn and improve customer satisfaction.
 
@@ -84,19 +84,19 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 
 ## Insights:
-1. Churn Rate - Customer Segmentation by Attrition:
+1. **Churn Rate** - Customer Segmentation by Attrition:
   - The overall churn rate is 15.72%, indicating that a significant portion of the customer base is leaving within the last 12 months.
   - Out of 7,081 customers, 1,113 (15.72%) are attrited customers, while 5,968 (84.28%) are existing customers.
   - The majority of attrited customers are associated with the **Blue card** category (92.9%).
 
-2. Behavioral Analysis:
+2. **Behavioral Analysis**:
   - Products Held: Customers holding 2 or 3 products with banks have a higher churn rate compared to others. Otherwise, customers holding 4+ products with banks have a low churn rate => Customers holding fewer products are at a higher risk of churn.
   - Contacts with Bank: Customers with 3 contacts in the last 12 months have the highest churn rate. Otherwise, customers with 5+ contacts with banks have a low churn rate. 
   - Months Inactive: Customers inactive for 3 months show higher churn risk.
   - Transaction Behavior: A sharp increase in churn is observed with higher changes in transaction count from Q4 to Q1. The majority of churned customers have an Avg_Utilization_Ratio of 0.00, suggesting that inactive customers who do not utilize their credit cards are at a higher risk of churn.
   - Credit Limit: No effect of credit limit on customer churn was found in this dataset.
 
-3. Demographic Insights:
+3. **Demographic Insights**:
   - Gender: Male and female customers show similar churn distribution.
   - Marital Status: Married customers constitute the majority of both churned and existing groups, with a slightly higher churn risk among singles and married customers.
   - Dependents: Customers with 2-3 dependents tend to churn more.
