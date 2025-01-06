@@ -1,7 +1,7 @@
 # Churn_Risk_Analysis_Dashboard
 ### Credit Card Customer Churn Risk Analysis using **Power BI**
-<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="40%" src="https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/blob/main/images/Churn_Image.png" alt="Outcome"></img>
+<p align="left" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="45%" src="https://github.com/ThuyTran102/Churn_Risk_Analysis_Dashboard/blob/main/images/Churn_Image.png" alt="Outcome"></img>
 </p>
 
 ## Table of Contents:
